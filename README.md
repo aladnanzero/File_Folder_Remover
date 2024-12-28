@@ -4,3 +4,4 @@ After downloading, open the terminal and run ./allremover.sh [] [] and press Ent
 To use it from anywhere, set the path, and it will be accessible from any location.
 
 Path : sudo mv allremover.sh /usr/local/bin/
+Now you can use anywhere

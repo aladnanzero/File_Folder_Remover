@@ -2,7 +2,7 @@
 
 # Check if arguments are provided
 if [ $# -lt 1 ]; then
-    echo "Usage: bulk_remove.sh <file/folder1> <file/folder2> ... <file/folderN>"
+    echo "Usage: allremover.sh <file/folder1> <file/folder2> ... <file/folderN>"
     exit 1
 fi
 

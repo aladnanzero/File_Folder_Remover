@@ -8,3 +8,6 @@ After downloading, open the terminal and run
 To use it from anywhere, set the path, and it will be accessible from any location.
 Path : sudo mv allremover.sh /usr/local/bin/
 Now you can use anywhere
+
+
+Usage: allremover.sh <file/folder1> <file/folder2> ... <file/folderN>

@@ -1,4 +1,4 @@
-Step 1: Move the script to a directory that's in your $PATH \n
+Step 1: Move the script to a directory that's in your $PATH
 
 sudo cp allremover.sh /usr/local/bin/allremover
 sudo chmod +x /usr/local/bin/allremover

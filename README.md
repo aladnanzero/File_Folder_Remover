@@ -1,16 +1,18 @@
-Step 1: Move the script to a directory that's in your $PATH
+# allremover.sh
 
-----------------------------------------------
+A simple bash script to remove multiple files or directories with one command, from anywhere on your system.
+
+---
+
+## 📦 Installation
+
+To make the script globally accessible, follow these steps:
+
+### ✅ Step 1: Move the script to a directory in your `$PATH`
+```bash
 sudo cp allremover.sh /usr/local/bin/allremover
 sudo chmod +x /usr/local/bin/allremover
-----------------------------------------------
 
-Step: 2
-Then make sure ~/bin is in your PATH:
-----------------------------------------------
-echo 'export PATH=$HOME/bin:$PATH' >> ~/.bashrc
-source ~/.bashrc
-----------------------------------------------
 
 Now you can use anywhere
 Usage: allremover <file/folder1 name> <file/folder2 name> ... <file/folder name>

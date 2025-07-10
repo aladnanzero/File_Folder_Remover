@@ -3,13 +3,13 @@
 This a simple powerfull bash script to remove multiple files or directories with one command, from anywhere on your system.
 
 ---
-
 ##  Installation
 
 To make the script anywhere to accessible, follow these steps:
 
 ###  Step 1: Move the script to a directory in your `$PATH`
 ```bash
+sudo git clone https://github.com/aladnanzero/File_Folder_Remover.git
 sudo cp allremover.sh /usr/local/bin/allremover
 sudo chmod +x /usr/local/bin/allremover
 

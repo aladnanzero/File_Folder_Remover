@@ -17,4 +17,3 @@ sudo chmod +x /usr/local/bin/allremover
 Now you can use anywhere
 Usage: allremover file1.txt folder2 log.log
 
-# Make sure ~/bin is in your PATH:

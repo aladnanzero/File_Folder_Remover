@@ -17,3 +17,7 @@ sudo chmod +x /usr/local/bin/allremover
 Now you can use anywhere
 Usage: allremover file1.txt folder2 log.log
 
+### Step : Add `~/bin` to your PATH (if not already)
+```bash
+echo 'export PATH=$HOME/bin:$PATH' >> ~/.bashrc
+source ~/.bashrc

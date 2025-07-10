@@ -8,7 +8,7 @@ A simple bash script to remove multiple files or directories with one command, f
 
 To make the script globally accessible, follow these steps:
 
-### ✅ Step 1: Move the script to a directory in your `$PATH`
+###  Step : Move the script to a directory in your `$PATH`
 ```bash
 sudo cp allremover.sh /usr/local/bin/allremover
 sudo chmod +x /usr/local/bin/allremover

@@ -1,19 +1,14 @@
-# Remover-File-Folder
-Using this, all files and folders can be removed. It's easy to use on Linux.
+Step 1: Move the script to a directory that's in your $PATH \n
 
-How to use it
-After downloading, open the terminal and run
-./allremover.sh [ your file name ] [ your folder name] and press Enter to remove everything.
+sudo cp allremover.sh /usr/local/bin/allremover
+sudo chmod +x /usr/local/bin/allremover
 
-To use it from anywhere, set the path, and it will be accessible from any location.
+Step: 2
+Then make sure ~/bin is in your PATH:
 
-Path : sudo mv allremover.sh /usr/local/bin/
-or
-sudo mv allremover.sh /usr/local/bin/allremover
-
+echo 'export PATH=$HOME/bin:$PATH' >> ~/.bashrc
+source ~/.bashrc
 
 Now you can use anywhere
-
-
-Usage: allremover <file/folder1> <file/folder2> ... <file/folderN>
+Usage: allremover <file/folder1 name> <file/folder2 name> ... <file/folder name>
 

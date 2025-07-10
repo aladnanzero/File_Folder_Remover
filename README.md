@@ -22,4 +22,4 @@ echo 'export PATH=$HOME/bin:$PATH' >> ~/.bashrc
 source ~/.bashrc
 ```
 ### Now you can use anywhere
-## Usage: allremover file1.txt folder2 log.log
+Usage: allremover file1.txt folder2 log.log

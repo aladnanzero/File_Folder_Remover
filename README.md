@@ -4,7 +4,7 @@ A simple bash script to remove multiple files or directories with one command, f
 
 ---
 
-## 📦 Installation
+##  Installation
 
 To make the script globally accessible, follow these steps:
 
@@ -15,5 +15,6 @@ sudo chmod +x /usr/local/bin/allremover
 
 
 Now you can use anywhere
-Usage: allremover <file/folder1 name> <file/folder2 name> ... <file/folder name>
+Usage: allremover file1.txt folder2 log.log
 
+# Make sure ~/bin is in your PATH:

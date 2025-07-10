@@ -1,12 +1,12 @@
 # allremover.sh
 
-A simple bash script to remove multiple files or directories with one command, from anywhere on your system.
+This a simple powerfull bash script to remove multiple files or directories with one command, from anywhere on your system.
 
 ---
 
 ##  Installation
 
-To make the script globally accessible, follow these steps:
+To make the script anywhere to accessible, follow these steps:
 
 ###  Step 1: Move the script to a directory in your `$PATH`
 ```bash

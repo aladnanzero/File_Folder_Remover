@@ -1,4 +1,4 @@
-# allremover.sh
+# Remover Tool
 
 This a simple powerfull bash script to remove multiple files or directories with one command, from anywhere on your system.
 
